@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Giustolalocanda]]></title>
         <description><![CDATA[Giustolalocanda]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/giustolalocanda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 17:28:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 17:33:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/giustolalocanda/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c628d057-0940-469e-a0bf-aa2ba5e66eb9.JPG">]]></description>
+            <link>https://thegrid.ai/giustolalocanda/pranzo-in-famigliaperche-da-giusto-e-come-essere-a-casa/index.html</link>
+            <guid isPermaLink="false">5de336af-cfca-4a61-bb48-1af367a0811c</guid>
+            <pubDate>Mon, 14 Mar 2016 17:33:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a6e32e5-33f9-4b0c-94e3-534060bc6c5b.jpg">]]></description>
-            <link>undefinedcb4bf7b7-dda2-4e1f-957a-d15df4c04390/index.html</link>
+            <link>https://thegrid.ai/giustolalocanda/cb4bf7b7-dda2-4e1f-957a-d15df4c04390/index.html</link>
             <guid isPermaLink="false">cb4bf7b7-dda2-4e1f-957a-d15df4c04390</guid>
             <pubDate>Mon, 14 Mar 2016 17:27:55 GMT</pubDate>
         </item>
